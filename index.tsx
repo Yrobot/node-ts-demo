@@ -28,8 +28,8 @@ const demoDFS = () => {
 };
 
 const main = async () => {
-  demoDFS();
-  // console.log(require("./src/reactDom"));
+  // demoDFS();
+  console.log(require("./src/reactDom"));
 };
 
 main();
